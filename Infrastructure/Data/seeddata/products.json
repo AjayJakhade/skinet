@@ -1,0 +1,146 @@
+[
+  {
+    "name": "Angular Speedster Board 2000",
+    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "price": 200,
+    "pictureurl": "images/products/sb-ang1.png",
+    "producttypeId": 1,
+    "productbrandId": 1
+  },
+  {
+    "name": "Green Angular Board 3000",
+    "Description": "Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.",
+    "price": 150,
+    "pictureurl": "images/products/sb-ang2.png",
+    "producttypeId": 1,
+    "productbrandId": 1
+  },
+  {
+    "name": "Core Board Speed Rush 3",
+    "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
+    "price": 180,
+    "pictureurl": "images/products/sb-core1.png",
+    "producttypeId": 1,
+    "productbrandId": 2
+  },
+  {
+    "name": "Net Core Super Board",
+    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+    "price": 300,
+    "pictureurl": "images/products/sb-core2.png",
+    "producttypeId": 1,
+    "productbrandId": 2
+  },
+  {
+    "name": "React Board Super Whizzy Fast",
+    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "price": 250,
+    "pictureurl": "images/products/sb-react1.png",
+    "producttypeId": 1,
+    "productbrandId": 4
+  },
+  {
+    "name": "Typescript Entry Board",
+    "Description": "Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.",
+    "price": 120,
+    "pictureurl": "images/products/sb-ts1.png",
+    "producttypeId": 1,
+    "productbrandId": 5
+  },
+  {
+    "name": "Core Blue Hat",
+    "Description": "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "price": 10,
+    "pictureurl": "images/products/hat-core1.png",
+    "producttypeId": 2,
+    "productbrandId": 2
+  },
+  {
+    "name": "Green React Woolen Hat",
+    "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
+    "price": 8,
+    "pictureurl": "images/products/hat-react1.png",
+    "producttypeId": 2,
+    "productbrandId": 4
+  },
+  {
+    "name": "Purple React Woolen Hat",
+    "Description": "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "price": 15,
+    "pictureurl": "images/products/hat-react2.png",
+    "producttypeId": 2,
+    "productbrandId": 4
+  },
+  {
+    "name": "Blue Code Gloves",
+    "Description": "Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.",
+    "price": 18,
+    "pictureurl": "images/products/glove-code1.png",
+    "producttypeId": 4,
+    "productbrandId": 3
+  },
+  {
+    "name": "Green Code Gloves",
+    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+    "price": 15,
+    "pictureurl": "images/products/glove-code2.png",
+    "producttypeId": 4,
+    "productbrandId": 3
+  },
+  {
+    "name": "Purple React Gloves",
+    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa.",
+    "price": 16,
+    "pictureurl": "images/products/glove-react1.png",
+    "producttypeId": 4,
+    "productbrandId": 4
+  },
+  {
+    "name": "Green React Gloves",
+    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+    "price": 14,
+    "pictureurl": "images/products/glove-react2.png",
+    "producttypeId": 4,
+    "productbrandId": 4
+  },
+  {
+    "name": "Redis Red Boots",
+    "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
+    "price": 250,
+    "pictureurl": "images/products/boot-redis1.png",
+    "producttypeId": 3,
+    "productbrandId": 6
+  },
+  {
+    "name": "Core Red Boots",
+    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "price": 189.99,
+    "pictureurl": "images/products/boot-core2.png",
+    "producttypeId": 3,
+    "productbrandId": 2
+  },
+  {
+    "name": "Core Purple Boots",
+    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+    "price": 199.99,
+    "pictureurl": "images/products/boot-core1.png",
+    "producttypeId": 3,
+    "productbrandId": 2
+  },
+  {
+    "name": "Angular Purple Boots",
+    "Description": "Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.",
+    "price": 150,
+    "pictureurl": "images/products/boot-ang2.png",
+    "producttypeId": 3,
+    "productbrandId": 1
+  },
+  {
+    "name": "Angular Blue Boots",
+    "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
+    "price": 180,
+    "pictureurl": "images/products/boot-ang1.png",
+    "producttypeId": 3,
+    "productbrandId": 1
+  }
+]
